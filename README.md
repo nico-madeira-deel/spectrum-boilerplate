@@ -4,4 +4,4 @@
 
 In your project folder just run the following:
 
-`yarn create next-app -e https://github.com/nicollemadeira/spectrum-boilerplate`
+`yarn create next-app -e https://github.com/nicomadeira/spectrum-boilerplate`
